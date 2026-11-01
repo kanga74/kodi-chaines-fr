@@ -1,0 +1,315 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/kanga74/kodi-chaines-fr/main/guide.xml.gz" x-tvg-url="https://raw.githubusercontent.com/kanga74/kodi-chaines-fr/main/guide.xml.gz"
+#EXTINF:-1 tvg-id="Africa24.fr@SD" tvg-name="Africa 24 (1080p)" tvg-logo="https://africa24tv.com/wp-content/uploads/2021/09/logo.png" group-title="Chaînes francophones",Africa 24 (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-id="Africa24Sport.fr@SD" tvg-name="Africa 24 Sport (1080p)" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="Chaînes francophones",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-id="AfricanewsFrench.fr@SD" tvg-name="Africanews French (720p)" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="Chaînes francophones",Africanews French (720p)
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 tvg-id="arte.fr@SD" tvg-name="arte (France) (720p)" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="Chaînes francophones",arte (France) (720p)
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench.cn@SD" tvg-name="CGTN French (1080p)" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="Chaînes francophones",CGTN French (1080p)
+https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsFrench.fr@SD" tvg-name="Euronews French (720p)" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Chaînes francophones",Euronews French (720p)
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24 (1080p)" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Chaînes francophones",France 24 (1080p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr@SD" tvg-name="Franceinfo (1080p)" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="Chaînes francophones",Franceinfo (1080p)
+http://149.62.177.107:9999/franceinfo:/index.m3u8
+#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-name="i24NEWS French (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="Chaînes francophones",i24NEWS French (1080p)
+https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="IciRDI.ca@SD" tvg-name="Ici RDI (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png" group-title="Chaînes francophones",Ici RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="LaUne.be@SD" tvg-name="La Une (1080p)" tvg-logo="https://i.imgur.com/jMwZp7z.png" group-title="Chaînes francophones",La Une (1080p)
+http://41.205.93.154/LA-UNE/index.m3u8
+#EXTINF:-1 tvg-id="LCP.fr@SD" tvg-name="LCP (477p)" tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="Chaînes francophones",LCP (477p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+#EXTINF:-1 tvg-id="MonacoInfo.mc@SD" tvg-name="Monaco Info (1080p)" tvg-logo="https://i.imgur.com/dIrKYH7.png" group-title="Chaînes francophones",Monaco Info (1080p)
+https://webtv.monacoinfo.com/live/prod/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD" tvg-name="TV5Monde Africa (720p)" tvg-logo="https://i.imgur.com/0N64Ddn.png" group-title="Chaînes francophones",TV5Monde Africa (720p)
+http://5.9.121.178/tv5monde/index.m3u8
+#EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD" tvg-name="TV5MONDE Chefs (1080p)" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" group-title="Chaînes francophones",TV5MONDE Chefs (1080p)
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-name="TV5Monde Europe (1080p)" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="Chaînes francophones",TV5Monde Europe (1080p)
+http://5.180.164.197:8080/TV5MONDE/index.m3u8
+#EXTINF:-1 tvg-id="TVMonaco.mc@SD" tvg-name="TV Monaco (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/960px-TVMonaco_2023.svg.png" group-title="Chaînes francophones",TV Monaco (1080p)
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RFI Afrique" tvg-logo="" radio="true" group-title="Radios francophones",RFI Afrique
+https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3
+#EXTINF:-1 tvg-id="" tvg-name="RFI Monde" tvg-logo="http://www.rfi.fr/apple-touch-icon.png" radio="true" group-title="Radios francophones",RFI Monde
+https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3
+#EXTINF:-1 tvg-id="" tvg-name="France Inter" tvg-logo="https://www.franceinter.fr/favicon.ico" radio="true" group-title="Radios francophones",France Inter
+https://icecast.radiofrance.fr/franceinter-midfi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="franceinfo" tvg-logo="https://www.radiofrance.fr/s3/cruiser-production/2022/06/52e277e9-95f8-44c4-8fda-6dfabc337b12/1200x680_franceinfo-logo-rs.jpg" radio="true" group-title="Radios francophones",franceinfo
+https://icecast.radiofrance.fr/franceinfo-midfi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="France Culture" tvg-logo="https://www.radiofrance.fr/external/favicons/franceculture/favicon.png" radio="true" group-title="Radios francophones",France Culture
+https://icecast.radiofrance.fr/franceculture-midfi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="France Musique" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/France_Musique_logo_2021.svg" radio="true" group-title="Radios francophones",France Musique
+https://icecast.radiofrance.fr/francemusique-midfi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="FIP" tvg-logo="" radio="true" group-title="Radios francophones",FIP
+https://icecast.radiofrance.fr/fip-midfi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Mouv'" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/Le_Mouv%27_logo_2008.svg/1024px-Le_Mouv%27_logo_2008.svg.png" radio="true" group-title="Radios francophones",Mouv'
+https://icecast.radiofrance.fr/mouv-midfi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Europe 1" tvg-logo="https://www.europe1.fr/build/e1/images/favicon-120x120.png" radio="true" group-title="Radios francophones",Europe 1
+https://europe1.lmn.fm/europe1.mp3
+#EXTINF:-1 tvg-id="" tvg-name="NRJ" tvg-logo="https://media.metacast.eu/pictures/10_2015/OdriLYWpbHJqKDAcGCMv-7384.png" radio="true" group-title="Radios francophones",NRJ
+https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Africa N°1" tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/africaradio/images/logo_RvDT2jBisJ.png" radio="true" group-title="Radios francophones",Africa N°1
+https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Côte d'Ivoire" tvg-logo="" radio="true" group-title="Radios francophones",Radio Côte d'Ivoire
+https://listen.radioking.com/radio/732974/stream/799223
+#EXTINF:-1 tvg-id="" tvg-name="RTI Fréquence 2" tvg-logo="" radio="true" group-title="Radios francophones",RTI Fréquence 2
+https://listen.radioking.com/radio/734192/stream/800486
+#EXTINF:-1 tvg-id="" tvg-name="Africa Radio Abidjan" tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/radios/africaradio/radiostream/4D9oGPMZbK/vignette_CL9ZJm8Vsg.png" radio="true" group-title="Radios francophones",Africa Radio Abidjan
+https://africaradio.ice.infomaniak.ch/abidjan128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Hit Radio Côte d'Ivoire" tvg-logo="https://www.ffh.de/android-icon.png" radio="true" group-title="Radios francophones",Hit Radio Côte d'Ivoire
+https://hrci.ice.infomaniak.ch/ci-abidjan-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Trace FM Côte d'Ivoire" tvg-logo="https://trace.ci/wp-content/uploads/2019/11/cropped-cropped-favicon-100x100.png" radio="true" group-title="Radios francophones",Trace FM Côte d'Ivoire
+http://stream.trace.tv/trace_fm_ci-midfi.aac
+#EXTINF:-1 tvg-id="" tvg-name="Skyrock Abidjan" tvg-logo="" radio="true" group-title="Radios francophones",Skyrock Abidjan
+https://icecast.skyrock.net/s/abidjan_aac_64k
+#EXTINF:-1 tvg-id="" tvg-name="Nostalgie Côte d'Ivoire" tvg-logo="https://www.nostalgie.be/favicon.ico" radio="true" group-title="Radios francophones",Nostalgie Côte d'Ivoire
+http://213.136.96.14:8000/nostalgie2.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nationale Catholique" tvg-logo="" radio="true" group-title="Radios francophones",Radio Nationale Catholique
+https://dc1.serverse.com/proxy/rncapp/stream
+#EXTINF:-1 tvg-id="" tvg-name="Radio Maria Côte d'Ivoire" tvg-logo="https://www.radiomaria.ci/wp-content/uploads/2016/09/per-itunes.jpg" radio="true" group-title="Radios francophones",Radio Maria Côte d'Ivoire
+https://dreamsiteradiocp6.com/proxy/rmcosta?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="Life Radio Côte d'Ivoire" tvg-logo="https://www.netroliferadio.cz/files/resize/128/128/netro-favicon-top-0.png" radio="true" group-title="Radios francophones",Life Radio Côte d'Ivoire
+https://cast4.asurahosting.com/proxy/life/stream
+#EXTINF:-1 tvg-id="FIFAPlus.uk@French" tvg-name="FIFA+ French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sport",FIFA+ French
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="LEquipe.fr@SD" tvg-name="L'Equipe" tvg-logo="https://i.imgur.com/t35zhM9.png" group-title="Sport",L'Equipe
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+#EXTINF:-1 tvg-id="KozoomTV.fr@SD" tvg-name="Kozoom TV" tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="Sport",Kozoom TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-name="Trace Sport Stars" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Sport",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NauticalChannel.it@SD" tvg-name="Nautical Channel" tvg-logo="https://i.imgur.com/2ByDyzL.png" group-title="Sport",Nautical Channel
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm@SD" tvg-name="CRTV Sports" tvg-logo="https://i.imgur.com/DiIei9F.png" group-title="Sport",CRTV Sports
+https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
+#EXTINF:-1 tvg-id="ADOTV.bj@SD" tvg-name="ADO TV" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="Sport",ADO TV
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@France" tvg-name="NatureTime France" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Découverte",NatureTime France
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IntoCrime.fr@SD" tvg-name="Into Crime" tvg-logo="https://i.imgur.com/43at4M2.png" group-title="Découverte",Into Crime
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WedoBigStories.ch@SD" tvg-name="Wedo Big Stories" tvg-logo="https://provider-static.plex.tv/epg/cms/production/49cf6309-0a4a-4d39-bdcc-fa48e4ef84a7/WEDOBIGSTORIES_LIGHTTHEME_-_Sorin_Stoian.png" group-title="Découverte",Wedo Big Stories
+https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="DossiersFBI.us@France" tvg-name="Dossiers FBI" tvg-logo="https://i.imgur.com/8Zx6dA7.png" group-title="Découverte",Dossiers FBI
+https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimaux.de@FR" tvg-name="Pluto TV Animaux" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="Découverte",Pluto TV Animaux
+https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAventure.de@FR" tvg-name="Pluto TV Aventure" tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" group-title="Découverte",Pluto TV Aventure
+https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHistoire.de@FR" tvg-name="Pluto TV Histoire" tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" group-title="Découverte",Pluto TV Histoire
+https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
+#EXTINF:-1 tvg-id="VoyagesSaveurs.es@FR" tvg-name="Voyages & Saveurs" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" group-title="Découverte",Voyages & Saveurs
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
+#EXTINF:-1 tvg-id="CinebyPlutoTV.de@FR" tvg-name="Pluto TV Ciné" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1775048900088.png" group-title="Films",Pluto TV Ciné
+https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
+#EXTINF:-1 tvg-id="CineActionbyPlutoTV.de@FR" tvg-name="Pluto TV Ciné Action" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png" group-title="Films",Pluto TV Ciné Action
+https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
+#EXTINF:-1 tvg-id="CineThrillersbyPlutoTV.de@FR" tvg-name="Pluto TV Ciné Thrillers" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG_1751272093012.png" group-title="Films",Pluto TV Ciné Thrillers
+https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
+#EXTINF:-1 tvg-id="CineRomancebyPlutoTV.de@FR" tvg-name="Pluto TV Ciné Romance" tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG_1775048649580.png" group-title="Films",Pluto TV Ciné Romance
+https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
+#EXTINF:-1 tvg-id="CineSciFibyPlutoTV.de@FR" tvg-name="Pluto TV Ciné Sci-Fi" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" group-title="Films",Pluto TV Ciné Sci-Fi
+https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
+#EXTINF:-1 tvg-id="CineHorreurbyPlutoTV.de@FR" tvg-name="Pluto TV Ciné Horreur" tvg-logo="https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png" group-title="Films",Pluto TV Ciné Horreur
+https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
+#EXTINF:-1 tvg-id="CineCatastrophebyPlutoTV.de@FR" tvg-name="Pluto TV Ciné Catastrophe" tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png" group-title="Films",Pluto TV Ciné Catastrophe
+https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
+#EXTINF:-1 tvg-id="CinedAsiebyPlutoTV.de@FR" tvg-name="Pluto TV Ciné d'Asie" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" group-title="Films",Pluto TV Ciné d'Asie
+https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
+#EXTINF:-1 tvg-id="CineRetrobyPlutoTV.de@FR" tvg-name="Pluto TV Ciné Rétro" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png" group-title="Films",Pluto TV Ciné Rétro
+https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
+#EXTINF:-1 tvg-id="CineWesternbyPlutoTV.de@FR" tvg-name="Pluto TV Ciné Western" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" group-title="Films",Pluto TV Ciné Western
+https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComediesCultes.de@FR" tvg-name="Pluto TV Comédies Cultes" tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" group-title="Films",Pluto TV Comédies Cultes
+https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
+#EXTINF:-1 tvg-id="PlutoTV90sClassics.de@FR" tvg-name="Pluto TV 90's Classics" tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png" group-title="Films",Pluto TV 90's Classics
+https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+#EXTINF:-1 tvg-id="CineNanar.fr@SD" tvg-name="Ciné Nanar" tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="Films",Ciné Nanar
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CineWestern.fr@SD" tvg-name="Ciné Western" tvg-logo="https://i.imgur.com/tteOFkL.png" group-title="Films",Ciné Western
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="EmotionL.fr@SD" tvg-name="Emotion'L" tvg-logo="https://i.imgur.com/MP34aaj.png" group-title="Films",Emotion'L
+https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="ScreamIN.fr@SD" tvg-name="ScreamIN" tvg-logo="https://i.imgur.com/tGmKbil.png" group-title="Films",ScreamIN
+https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD" tvg-name="Sony One Favoris" tvg-logo="https://i.imgur.com/RO4AM4b.png" group-title="Films",Sony One Favoris
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsAction.fr@HD" tvg-name="Sony One Hits Action" tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Films",Sony One Hits Action
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD" tvg-name="Sony One Hits Comédie" tvg-logo="https://i.imgur.com/8sHuxxS.png" group-title="Films",Sony One Hits Comédie
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="SeriesbyPlutoTV.de@FR" tvg-name="Pluto TV Séries" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG_1775048963457.png" group-title="Séries",Pluto TV Séries
+https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVPolar.de@FR" tvg-name="Pluto TV Polar" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" group-title="Séries",Pluto TV Polar
+https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
+#EXTINF:-1 tvg-id="LouisLaBrocante.us@France" tvg-name="Louis La Brocante" tvg-logo="https://i.imgur.com/I1w7rFb.png" group-title="Séries",Louis La Brocante
+https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
+#EXTINF:-1 tvg-id="LesNouveauxDetectives.us@France" tvg-name="Les Nouveaux Détectives" tvg-logo="https://i.imgur.com/ego8ozn.png" group-title="Séries",Les Nouveaux Détectives
+https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
+#EXTINF:-1 tvg-id="WalkerTexasRanger.us@France" tvg-name="Walker Texas Ranger" tvg-logo="https://i.imgur.com/0N7EhuD.png" group-title="Séries",Walker Texas Ranger
+https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
+#EXTINF:-1 tvg-id="AlerteaMalibu.us@France" tvg-name="Alerte à Malibu" tvg-logo="https://i.imgur.com/hBiB6uk.png" group-title="Séries",Alerte à Malibu
+https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD" tvg-name="Sony One Blacklist" tvg-logo="https://i.imgur.com/uJC8rXr.png" group-title="Séries",Sony One Blacklist
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="FrequenceNovelas.fr@SD" tvg-name="Fréquence Novelas" tvg-logo="https://i.imgur.com/fEjNAps.png" group-title="Séries",Fréquence Novelas
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="ADNTVPlus.fr@SD" tvg-name="ADN TV+ (manga)" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="Manga & Enfants",ADN TV+ (manga)
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 tvg-id="OnePiece.us@FR" tvg-name="One Piece" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="Manga & Enfants",One Piece
+https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8
+#EXTINF:-1 tvg-id="DetectiveConan.us@France" tvg-name="Détective Conan" tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512" group-title="Manga & Enfants",Détective Conan
+https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
+#EXTINF:-1 tvg-id="InazumaEleven.us@France" tvg-name="Inazuma Eleven" tvg-logo="https://i.imgur.com/pLv0T3D.png" group-title="Manga & Enfants",Inazuma Eleven
+https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
+#EXTINF:-1 tvg-id="Bobleponge.us@CA" tvg-name="Bob l'éponge" tvg-logo="https://images.pluto.tv/channels/66588931a3865300085ca800/colorLogoPNG.png" group-title="Manga & Enfants",Bob l'éponge
+https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@FR" tvg-name="Mr Bean animé" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Manga & Enfants",Mr Bean animé
+https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVToons.de@FR" tvg-name="Pluto TV Toons" tvg-logo="https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png" group-title="Manga & Enfants",Pluto TV Toons
+https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSuperKids.de@FR" tvg-name="Pluto TV Super Kids" tvg-logo="https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG_1733440546104.png" group-title="Manga & Enfants",Pluto TV Super Kids
+https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKidsClassics.de@FR" tvg-name="Pluto TV Kids Classics" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png" group-title="Manga & Enfants",Pluto TV Kids Classics
+https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRetroToons.de@FR" tvg-name="Pluto TV Retro Toons" tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" group-title="Manga & Enfants",Pluto TV Retro Toons
+https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTeen.de@FR" tvg-name="Pluto TV Teen" tvg-logo="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png" group-title="Manga & Enfants",Pluto TV Teen
+https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8
+#EXTINF:-1 tvg-id="FunVision.be@SD" tvg-name="Fun Radio Vision" tvg-logo="https://i.imgur.com/AhkKr7Y.png" group-title="Musique",Fun Radio Vision
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+#EXTINF:-1 tvg-id="DBMTV.fr@SD" tvg-name="DBM TV" tvg-logo="https://i.imgur.com/ab6p2SW.png" group-title="Musique",DBM TV
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayClassica.ca@SD" tvg-name="Stingray Classica" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Musique",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="IvoireChannel.ci@SD" tvg-name="Ivoire Channel" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="Musique",Ivoire Channel
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr@SD" tvg-name="Trace Urban" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Musique",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@US" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Musique",MTV Biggest Pop
+https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca@SD" tvg-name="Stingray Hit List" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="Musique",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca@SD" tvg-name="Stingray Pop Adult" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Musique",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca@SD" tvg-name="Stingray Années 80" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Musique",Stingray Années 80
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca@SD" tvg-name="Stingray Années 70" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="Musique",Stingray Années 70
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca@SD" tvg-name="Stingray Classic Rock" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Musique",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca@SD" tvg-name="Stingray Romance Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="Musique",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca@SD" tvg-name="Stingray Smooth Jazz" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="Musique",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-name="Stingray Karaoké" tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="Musique",Stingray Karaoké
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-name="Qello Concerts" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Musique",Qello Concerts
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr@SD" tvg-name="Qwest TV Jazz" tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="Musique",Qwest TV Jazz
+https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="7Info.ci@SD" tvg-name="7 Info" tvg-logo="https://i.imgur.com/jcl1nNR.png" group-title="Côte d'Ivoire",7 Info
+https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ci@SD" tvg-name="NTV Côte d'Ivoire" tvg-logo="https://i.imgur.com/qqLXdHz.png" group-title="Côte d'Ivoire",NTV Côte d'Ivoire
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="RefletTV.ci@SD" tvg-name="Reflet TV" tvg-logo="https://i.imgur.com/EauXR22.png" group-title="Côte d'Ivoire",Reflet TV
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="SerieMax.ci@SD" tvg-name="Série Max" tvg-logo="https://i.imgur.com/GaRQXHT.png" group-title="Côte d'Ivoire",Série Max
+https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
+#EXTINF:-1 tvg-id="MiracleTVPlus.ci@SD" tvg-name="Miracle TV+" tvg-logo="https://i.imgur.com/AQ60OYO.png" group-title="Côte d'Ivoire",Miracle TV+
+https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="IvoireChannel.ci@SD" tvg-name="Ivoire Channel" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="Côte d'Ivoire",Ivoire Channel
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCuisine.de@FR" tvg-name="Pluto TV Cuisine" tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png" group-title="Divertissement",Pluto TV Cuisine
+https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComedie.de@FR" tvg-name="Pluto TV Comédie" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" group-title="Divertissement",Pluto TV Comédie
+https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFrenchCollection.de@FR" tvg-name="Pluto TV French Collection" tvg-logo="https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png" group-title="Divertissement",Pluto TV French Collection
+https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTelerealiteFrance.de@FR" tvg-name="Pluto TV Télé-réalité" tvg-logo="https://images.pluto.tv/channels/699865ccac36b147e74619fe/colorLogoPNG_1779788356699.png" group-title="Divertissement",Pluto TV Télé-réalité
+https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
+#EXTINF:-1 tvg-id="Yaquelaveritequicompte.us@France" tvg-name="Y'a que la vérité qui compte" tvg-logo="https://i.imgur.com/MDHN2Vc.png" group-title="Divertissement",Y'a que la vérité qui compte
+https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
+#EXTINF:-1 tvg-id="RMCLife.fr@SD" tvg-name="RMC Life" tvg-logo="https://img1.dc2.oqee.net/channel_pictures/3606/w512" group-title="Divertissement",RMC Life
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:-1 tvg-id="ZeeOne.uk@French" tvg-name="Zee One (Bollywood VF)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Divertissement",Zee One (Bollywood VF)
+https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="Turbo.de@FR" tvg-name="Turbo" tvg-logo="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoPNG.png" group-title="Divertissement",Turbo
+https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
+#EXTINF:-1 tvg-id="TeleLouange.ht@SD" tvg-name="Télé Louange" tvg-logo="https://i.imgur.com/DjnMUuL.png" group-title="Religion",Télé Louange
+https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
+#EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-name="BFM2" tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg" group-title="Chaînes francophones",BFM2
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 tvg-id="PlutoTVANIMEGO.de@FR" tvg-name="Pluto TV Anime GO!" tvg-logo="https://images.pluto.tv/channels/691b3669c48674840c3b832a/colorLogoPNG_1778491402325.png" group-title="Manga & Enfants",Pluto TV Anime GO!
+https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
+#EXTINF:-1 tvg-id="MTVCLASSICS.de@FR" tvg-name="MTV Classics" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="Musique",MTV Classics
+https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
+#EXTINF:-1 tvg-id="MiracleTVPlus.ci@SD" tvg-name="Miracle TV+" tvg-logo="https://i.imgur.com/AQ60OYO.png" group-title="Religion",Miracle TV+
+https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Afrobeat international" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Afrobeat international
+https://listen.radioking.com/radio/397789/stream/449770
+#EXTINF:-1 tvg-id="" tvg-name="Radio Jam" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Radio Jam
+https://listen.radioking.com/radio/61201/stream/98566
+#EXTINF:-1 tvg-id="" tvg-name="Radio Fréquence Vie" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Radio Fréquence Vie
+https://streamer.galcom.org:8443/RadioFrequenceVie
+#EXTINF:-1 tvg-id="" tvg-name="RadioAgonshu" tvg-logo="https://studio10.vestaradio.com/uploads/user-music/1748/covers/cover_1748_1782679287_a66968.jpg" radio="true" group-title="Radios Côte d'Ivoire",RadioAgonshu
+https://stream10.vestaradio.com/RadioAgonshu
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pulsar Katiola" tvg-logo="https://radiopulsarkatiola.vestaradio.eu/uploads/temp/logos/logo_2776_1030_1786630814_11fe93.jpg" radio="true" group-title="Radios Côte d'Ivoire",Radio Pulsar Katiola
+https://stream10.vestaradio.com/RADIO-PULSAR-KATIOLA
+#EXTINF:-1 tvg-id="" tvg-name="WaveMaster Radio" tvg-logo="https://wavemaster.diskstation.me/static/uploads/browser_icon/original.1787247046.png" radio="true" group-title="Radios Côte d'Ivoire",WaveMaster Radio
+https://wavemaster.diskstation.me/listen/wavemaster_radio/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Espoir" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Radio Espoir
+https://dc1.serverse.com/proxy/radioespoir/stream
+#EXTINF:-1 tvg-id="" tvg-name="Adoration Matinale" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Adoration Matinale
+https://listen.radioking.com/radio/9442/stream/19811
+#EXTINF:-1 tvg-id="" tvg-name="AlphaetOmega" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",AlphaetOmega
+http://161.97.160.18:8000/alphaetomega
+#EXTINF:-1 tvg-id="" tvg-name="Les Messagers Du Christ" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Les Messagers Du Christ
+https://listen.radioking.com/radio/725756/stream/791726
+#EXTINF:-1 tvg-id="" tvg-name="RVM Radio" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",RVM Radio
+https://radio.rvmsikensi.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Serveur de Messages Prophétiques" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Serveur de Messages Prophétiques
+https://listen.radioking.com/radio/688134/stream/752823
+#EXTINF:-1 tvg-id="" tvg-name="RAVA (Rassemblement des Vrais Adorateurs)" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",RAVA (Rassemblement des Vrais Adorateurs)
+https://listen.radioking.com/radio/708674/stream/774185
+#EXTINF:-1 tvg-id="" tvg-name="LA VOIX DE L'ESPERANCE" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",LA VOIX DE L'ESPERANCE
+https://jookiidigit.radioca.st/rve.mp3
+#EXTINF:-1 tvg-id="" tvg-name="La Voix Du Bon Berger" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",La Voix Du Bon Berger
+https://listen.radioking.com/radio/695570/stream/760439
+#EXTINF:-1 tvg-id="" tvg-name="Radio Grâce-Espoir" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Radio Grâce-Espoir
+https://listen.radioking.com/radio/281332/stream/327067
+#EXTINF:-1 tvg-id="" tvg-name="La Voix de la Diaspora" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",La Voix de la Diaspora
+https://listen.radioking.com/radio/9892/stream/63760
+#EXTINF:-1 tvg-id="" tvg-name="Radio Génération" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Radio Génération
+https://listen.radioking.com/radio/322058/stream/369815
+#EXTINF:-1 tvg-id="" tvg-name="Radio ESJC" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Radio ESJC
+https://stream4.vestaradio.com/RadioESJC
+#EXTINF:-1 tvg-id="" tvg-name="Horizonfm CI" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Horizonfm CI
+https://sky.doscast.com/proxy/firmin/stream
+#EXTINF:-1 tvg-id="" tvg-name="GEM Radio Africa" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",GEM Radio Africa
+https://radio.geyetv.com:8010/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nuit Blanche" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Radio Nuit Blanche
+https://free.rcast.net/73850
+#EXTINF:-1 tvg-id="" tvg-name="Radio Augusta International" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Radio Augusta International
+https://ecmanager4.pro-fhi.net:2250/stream
+#EXTINF:-1 tvg-id="" tvg-name="Radio Saphir" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Radio Saphir
+https://stream.radiosaphir.com/listen/radiosaphir-106.8-fm/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="G-Eye Radio" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",G-Eye Radio
+https://radio.geyetv.com/listen/geye_radio/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="ACM Radio" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",ACM Radio
+https://listen.radioking.com/radio/670561/stream/734653
+#EXTINF:-1 tvg-id="" tvg-name="Radio khadim" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Radio khadim
+https://free.rcast.net/73857
+#EXTINF:-1 tvg-id="" tvg-name="Radio de la Paix" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Radio de la Paix
+https://www.radiodelapaix.ci/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Cote d'ivoire FM" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Cote d'ivoire FM
+https://listen.radioking.com/radio/9892/stream/62227
+#EXTINF:-1 tvg-id="" tvg-name="Alpha Blondy FM" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",Alpha Blondy FM
+https://listen.radioking.com/radio/364633/stream/414370
+#EXTINF:-1 tvg-id="" tvg-name="FER FM" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",FER FM
+https://listen.radioking.com/radio/865681/stream/935596

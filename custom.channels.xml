@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="chaines-tv.orange.fr" lang="fr" xmltv_id="Africa24.fr@SD" site_id="90239">Africa 24 (1080p)</channel>
+  <channel site="programme-tv.net" lang="fr" xmltv_id="arte.fr@SD" site_id="arte-337">arte (France) (720p)</channel>
+  <channel site="chaines-tv.orange.fr" lang="fr" xmltv_id="CGTNFrench.cn@SD" site_id="90550">CGTN French (1080p)</channel>
+  <channel site="plex.tv" lang="fr" xmltv_id="EuronewsFrench.fr@SD" site_id="6245f06793b402a3d1097787">Euronews French (720p)</channel>
+  <channel site="programme-tv.net" lang="fr" xmltv_id="France24.fr@French" site_id="france-24-142">France 24 (1080p)</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="Franceinfo.fr@SD" site_id="#670">Franceinfo (1080p)</channel>
+  <channel site="programme-tv.net" lang="fr" xmltv_id="i24NEWSFrench.il@SD" site_id="i24news-243">i24NEWS French (1080p)</channel>
+  <channel site="tvhebdo.com" lang="fr" xmltv_id="IciRDI.ca@SD" site_id="rdi/RDI">Ici RDI (720p)</channel>
+  <channel site="programme-tv.net" lang="fr" xmltv_id="LaUne.be@SD" site_id="la-une-144">La Une (1080p)</channel>
+  <channel site="programme-tv.net" lang="fr" xmltv_id="LCP.fr@SD" site_id="la-chaine-parlementaire-11">LCP (477p)</channel>
+  <channel site="startimestv.com" lang="fr" xmltv_id="TV5MondeAfrica.fr@SD" site_id="381">TV5Monde Africa (720p)</channel>
+  <channel site="ipko.tv" lang="fr" xmltv_id="TV5MondeEurope.fr@SD" site_id="tv-5-monde">TV5Monde Europe (1080p)</channel>
+  <channel site="chaines-tv.orange.fr" lang="fr" xmltv_id="TVMonaco.mc@SD" site_id="3786">TV Monaco (1080p)</channel>
+  <channel site="plex.tv" lang="fr" xmltv_id="FIFAPlus.uk@French" site_id="666340ce76ca410aa18e705b">FIFA+ French</channel>
+  <channel site="programme-tv.net" lang="fr" xmltv_id="LEquipe.fr@SD" site_id="lequipe-204">L&#x27;Equipe</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="KozoomTV.fr@SD" site_id="83822">Kozoom TV</channel>
+  <channel site="programme-tv.net" lang="fr" xmltv_id="TraceSportStars.fr@HD" site_id="trace-sport-stars-197">Trace Sport Stars</channel>
+  <channel site="programme-tv.net" lang="fr" xmltv_id="NauticalChannel.it@SD" site_id="nautical-channel-109">Nautical Channel</channel>
+  <channel site="plex.tv" lang="fr" xmltv_id="NatureTime.ca@France" site_id="6827c34ca5c6e573c6904444">NatureTime France</channel>
+  <channel site="plex.tv" lang="fr" xmltv_id="IntoCrime.fr@SD" site_id="67db068f92cb453db28ab017">Into Crime</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="WedoBigStories.ch@SD" site_id="6578ec93eef129f30fb38dfd">Wedo Big Stories</channel>
+  <channel site="i.mjh.nz" lang="fr" xmltv_id="DossiersFBI.us@France" site_id="PlutoTV/fr#5f8edad922b10b000753bc37">Dossiers FBI</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="PlutoTVAnimaux.de@FR" site_id="60925a44f0350600075a1fdc">Pluto TV Animaux</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="PlutoTVAventure.de@FR" site_id="611e7811eb9daf000764cbfd">Pluto TV Aventure</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="PlutoTVHistoire.de@FR" site_id="611e771e2f5f180007002224">Pluto TV Histoire</channel>
+  <channel site="plex.tv" lang="fr" xmltv_id="VoyagesSaveurs.es@FR" site_id="671ff50c922f0674c9398afb">Voyages &amp; Saveurs</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="CinebyPlutoTV.de@FR" site_id="5f8ed0f17564a300082b676a">Pluto TV Ciné</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="CineActionbyPlutoTV.de@FR" site_id="5f8ed1ff5c39700007e2204a">Pluto TV Ciné Action</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="CineThrillersbyPlutoTV.de@FR" site_id="60c3472a51a2050008dad272">Pluto TV Ciné Thrillers</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="CineRomancebyPlutoTV.de@FR" site_id="60812fc8539963000707d1e1">Pluto TV Ciné Romance</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="CineSciFibyPlutoTV.de@FR" site_id="60c34592c911890007f29a73">Pluto TV Ciné Sci-Fi</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="CineHorreurbyPlutoTV.de@FR" site_id="66e1978babec540008ce41ac">Pluto TV Ciné Horreur</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="CineCatastrophebyPlutoTV.de@FR" site_id="65a69ef53af63d000825e0ee">Pluto TV Ciné Catastrophe</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="CinedAsiebyPlutoTV.de@FR" site_id="62f3e2d000418d00070f7dbc">Pluto TV Ciné d&#x27;Asie</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="CineRetrobyPlutoTV.de@FR" site_id="5f8ed168f72fcd0007e56269">Pluto TV Ciné Rétro</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="CineWesternbyPlutoTV.de@FR" site_id="65cca3e2ec452d0008af3a65">Pluto TV Ciné Western</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="PlutoTVComediesCultes.de@FR" site_id="67b4b2d976a934282e92d71c">Pluto TV Comédies Cultes</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="PlutoTV90sClassics.de@FR" site_id="66b4990746762a00084c2f78">Pluto TV 90&#x27;s Classics</channel>
+  <channel site="plex.tv" lang="fr" xmltv_id="CineNanar.fr@SD" site_id="6490e44818a55242eea95993">Ciné Nanar</channel>
+  <channel site="plex.tv" lang="fr" xmltv_id="CineWestern.fr@SD" site_id="65847f56d60830ce4d4f303c">Ciné Western</channel>
+  <channel site="plex.tv" lang="fr" xmltv_id="EmotionL.fr@SD" site_id="6490e06718a55242eea9598f">Emotion&#x27;L</channel>
+  <channel site="plex.tv" lang="fr" xmltv_id="SonyOneFavoris.fr@HD" site_id="692229df50fe592fd6d5b7e2">Sony One Favoris</channel>
+  <channel site="plex.tv" lang="fr" xmltv_id="SonyOneHitsAction.fr@HD" site_id="692227f850fe592fd6d5b7e0">Sony One Hits Action</channel>
+  <channel site="plex.tv" lang="fr" xmltv_id="SonyOneHitsComedie.fr@HD" site_id="692228985cbe620c1f9b6bb9">Sony One Hits Comédie</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="SeriesbyPlutoTV.de@FR" site_id="5f8ed2d1c34c2300073bf02c">Pluto TV Séries</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="PlutoTVPolar.de@FR" site_id="5f8ed4dbf6bb0800071ffbcb">Pluto TV Polar</channel>
+  <channel site="i.mjh.nz" lang="fr" xmltv_id="LouisLaBrocante.us@France" site_id="PlutoTV/fr#5f8ed6d569d2d4000864a976">Louis La Brocante</channel>
+  <channel site="i.mjh.nz" lang="fr" xmltv_id="LesNouveauxDetectives.us@France" site_id="PlutoTV/fr#5f8edb6df1ebb800072edf10">Les Nouveaux Détectives</channel>
+  <channel site="i.mjh.nz" lang="fr" xmltv_id="WalkerTexasRanger.us@France" site_id="PlutoTV/fr#60afa749ac7f3200078adb40">Walker Texas Ranger</channel>
+  <channel site="plex.tv" lang="fr" xmltv_id="AlerteaMalibu.us@France" site_id="68e03cb418c739b4d91a6a59">Alerte à Malibu</channel>
+  <channel site="plex.tv" lang="fr" xmltv_id="SonyOneBlacklist.fr@HD" site_id="69222c105cbe620c1f9b6bbf">Sony One Blacklist</channel>
+  <channel site="plex.tv" lang="fr" xmltv_id="FrequenceNovelas.fr@SD" site_id="6490e6ae18a55242eea95997">Fréquence Novelas</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="OnePiece.us@FR" site_id="5f7790b3ed0c88000720b241">One Piece</channel>
+  <channel site="i.mjh.nz" lang="fr" xmltv_id="InazumaEleven.us@France" site_id="PlutoTV/fr#611e75226b7f420007c3f319">Inazuma Eleven</channel>
+  <channel site="i.mjh.nz" lang="fr" xmltv_id="Bobleponge.us@CA" site_id="PlutoTV/fr#5ffc8c345822750007e167de">Bob l&#x27;éponge</channel>
+  <channel site="plex.tv" lang="en" xmltv_id="MrBeanAnimated.uk@FR" site_id="66a2e7fe94b6a49cb5054d7b">Mr Bean animé</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="PlutoTVToons.de@FR" site_id="5f8eba14a4ffb8000764e950">Pluto TV Toons</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="PlutoTVSuperKids.de@FR" site_id="652557d93fd33c000802f995">Pluto TV Super Kids</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="PlutoTVKidsClassics.de@FR" site_id="654a58dbf9cc82000868f0fb">Pluto TV Kids Classics</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="PlutoTVRetroToons.de@FR" site_id="611e6a9b4bb5790007a6f0f8">Pluto TV Retro Toons</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="PlutoTVTeen.de@FR" site_id="5f8eb99ff17815000784a3b0">Pluto TV Teen</channel>
+  <channel site="chaines-tv.orange.fr" lang="fr" xmltv_id="StingrayClassica.ca@SD" site_id="1353">Stingray Classica</channel>
+  <channel site="programme-tv.net" lang="fr" xmltv_id="TraceUrban.fr@SD" site_id="trace-urban-127">Trace Urban</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="MTVBiggestPop.us@US" site_id="5d14fd1a252d35decbc4080c">MTV Biggest Pop</channel>
+  <channel site="i.mjh.nz" lang="fr" xmltv_id="StingrayHitList.ca@SD" site_id="Plex/fr#6430aa45fc3be5947780904e-61aaa014784a2161d3caf7fd">Stingray Hit List</channel>
+  <channel site="i.mjh.nz" lang="fr" xmltv_id="StingrayPopAdult.ca@SD" site_id="Plex/fr#6430aa45fc3be5947780904e-62ee7992271f393d2d9f709c">Stingray Pop Adult</channel>
+  <channel site="xumo.tv" lang="en" xmltv_id="StingrayEverything80s.ca@SD" site_id="350#99991742">Stingray Années 80</channel>
+  <channel site="i.mjh.nz" lang="fr" xmltv_id="StingrayFlashback70s.ca@SD" site_id="Plex/fr#6430aa45fc3be5947780904e-62f15810a3ffe928ef806c75">Stingray Années 70</channel>
+  <channel site="i.mjh.nz" lang="fr" xmltv_id="StingrayClassicRock.ca@SD" site_id="Plex/fr#6430aa45fc3be5947780904e-61aaa0cc784a2161d3caf7ff">Stingray Classic Rock</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="StingrayRomanceLatino.ca@SD" site_id="19049">Stingray Romance Latino</channel>
+  <channel site="i.mjh.nz" lang="fr" xmltv_id="StingraySmoothJazz.ca@SD" site_id="Plex/fr#6430aa45fc3be5947780904e-62ee784852f7d73061eec493">Stingray Smooth Jazz</channel>
+  <channel site="i.mjh.nz" lang="fr" xmltv_id="StingrayKaraoke.ca@SD" site_id="Plex/fr#6430aa45fc3be5947780904e-62d7f6904d0067dd4d60d0de">Stingray Karaoké</channel>
+  <channel site="i.mjh.nz" lang="fr" xmltv_id="QelloConcertsbyStingray.ca@SD" site_id="Plex/fr#6430aa45fc3be5947780904e-62d7f68fb19cbf65dc7bef7c">Qello Concerts</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="PlutoTVCuisine.de@FR" site_id="5f8ed48146ba9e00078424b6">Pluto TV Cuisine</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="PlutoTVComedie.de@FR" site_id="5f8eb91bb9b9e7000817e67f">Pluto TV Comédie</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="PlutoTVFrenchCollection.de@FR" site_id="62f3e0522443200008c567d7">Pluto TV French Collection</channel>
+  <channel site="i.mjh.nz" lang="fr" xmltv_id="Yaquelaveritequicompte.us@France" site_id="PlutoTV/fr#612e044c970e6f00083bcf3b">Y&#x27;a que la vérité qui compte</channel>
+  <channel site="teleboy.ch" lang="fr" xmltv_id="RMCLife.fr@SD" site_id="371">RMC Life</channel>
+  <channel site="zee5.com" lang="en" xmltv_id="ZeeOne.uk@French" site_id="0-9-9z5829362">Zee One (Bollywood VF)</channel>
+  <channel site="tv.sfr.fr" lang="fr" xmltv_id="BFM2.fr@HD" site_id="4092">BFM2</channel>
+  <channel site="pluto.tv" lang="fr" xmltv_id="PlutoTVANIMEGO.de@FR" site_id="691b3669c48674840c3b832a">Pluto TV Anime GO!</channel>
+</channels>
