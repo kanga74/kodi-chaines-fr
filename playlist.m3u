@@ -313,3 +313,9 @@ https://listen.radioking.com/radio/9892/stream/62227
 https://listen.radioking.com/radio/364633/stream/414370
 #EXTINF:-1 tvg-id="" tvg-name="FER FM" tvg-logo="" radio="true" group-title="Radios Côte d'Ivoire",FER FM
 https://listen.radioking.com/radio/865681/stream/935596
+#EXTINF:-1 tvg-id="BenieTV.ci@SD" tvg-logo="https://i.imgur.com/7FXi05e.jpeg" group-title="Côte d'Ivoire",Benie TV
+https://tv.voozmedia.fun/benietv/index.m3u8
+#EXTINF:-1 tvg-id="ChampionTV.ci@SD" tvg-logo="https://i.imgur.com/WjHSrHN.png" group-title="Côte d'Ivoire",Champion TV
+https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
+#EXTINF:-1 tvg-id="RTVC.ci@SD" tvg-logo="https://i.imgur.com/oXuSkHz.png" group-title="Côte d'Ivoire",RTVC
+https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
